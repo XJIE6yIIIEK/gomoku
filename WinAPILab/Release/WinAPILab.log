@@ -1,0 +1,12 @@
+﻿  guilib.cpp
+C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\WinAPILab\guilib.cpp(233,15): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+  main_logic.cpp
+  map_view.cpp
+  srlzsys.cpp
+  tictactoe.cpp
+  Создание кода
+  4 of 1598 functions ( 0.3%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  WinAPILab.vcxproj -> C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\Release\WinAPILab.exe

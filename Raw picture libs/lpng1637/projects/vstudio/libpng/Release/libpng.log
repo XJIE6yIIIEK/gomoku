@@ -1,0 +1,585 @@
+﻿     Создается библиотека C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\projects\vstudio\Release\libpng16.lib и объект C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\projects\vstudio\Release\libpng16.exp
+  Создание кода
+  Previous IOBJ not found, fall back to full compilation.
+C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\zlib\deflate.c(1375): warning C5045: Компилятор вставит компонент устранения рисков Spectre для загрузки памяти, если указан параметр /Qspectre
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\zlib\deflate.c(1375) : Примечание. Диапазон индекса "best_len", проверенный путем сравнения, в этой строке
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\zlib\deflate.c(1375) : Примечание. Вызов веб-каналов в этой строке
+C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngwutil.c(2240): warning C5045: Компилятор вставит компонент устранения рисков Spectre для загрузки памяти, если указан параметр /Qspectre
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngwutil.c(2109) : Примечание. Диапазон индекса "pass", проверенный путем сравнения, в этой строке
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngwutil.c(2248) : Примечание. Вызов веб-каналов в этой строке
+C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngwutil.c(235): warning C5045: Компилятор вставит компонент устранения рисков Spectre для загрузки памяти, если указан параметр /Qspectre
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngwutil.c(211) : Примечание. Диапазон индекса "h", проверенный путем сравнения, в этой строке
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngwutil.c(235) : Примечание. Вызов веб-каналов в этой строке
+C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngwutil.c(231): warning C5045: Компилятор вставит компонент устранения рисков Spectre для загрузки памяти, если указан параметр /Qspectre
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngwutil.c(211) : Примечание. Диапазон индекса "h", проверенный путем сравнения, в этой строке
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngwutil.c(231) : Примечание. Вызов веб-каналов в этой строке
+C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngwrite.c(1679): warning C5045: Компилятор вставит компонент устранения рисков Spectre для загрузки памяти, если указан параметр /Qspectre
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngwrite.c(1661) : Примечание. Диапазон индекса "component", проверенный путем сравнения, в этой строке
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngwrite.c(1679) : Примечание. Вызов веб-каналов в этой строке
+C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngset.c(1357): warning C5045: Компилятор вставит компонент устранения рисков Spectre для загрузки памяти, если указан параметр /Qspectre
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngset.c(1351) : Примечание. Диапазон индекса "count", проверенный путем сравнения, в этой строке
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngset.c(1357) : Примечание. Вызов веб-каналов в этой строке
+C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngmem.c(95): warning C5045: Компилятор вставит компонент устранения рисков Spectre для загрузки памяти, если указан параметр /Qspectre
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngmem.c(83) : Примечание. Диапазон индекса "size", проверенный путем сравнения, в этой строке
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngmem.c(95) : Примечание. Вызов веб-каналов в этой строке
+C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngmem.c(91): warning C5045: Компилятор вставит компонент устранения рисков Spectre для загрузки памяти, если указан параметр /Qspectre
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngmem.c(83) : Примечание. Диапазон индекса "size", проверенный путем сравнения, в этой строке
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngmem.c(91) : Примечание. Вызов веб-каналов в этой строке
+C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\png.c(4343): warning C5045: Компилятор вставит компонент устранения рисков Spectre для загрузки памяти, если указан параметр /Qspectre
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\png.c(4334) : Примечание. Диапазон индекса "option", проверенный путем сравнения, в этой строке
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\png.c(4343) : Примечание. Вызов веб-каналов в этой строке
+C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\png.c(3894): warning C5045: Компилятор вставит компонент устранения рисков Spectre для загрузки памяти, если указан параметр /Qspectre
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\png.c(3866) : Примечание. Диапазон индекса "value", проверенный путем сравнения, в этой строке
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\png.c(3894) : Примечание. Вызов веб-каналов в этой строке
+C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\png.c(3554): warning C5045: Компилятор вставит компонент устранения рисков Spectre для загрузки памяти, если указан параметр /Qspectre
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\png.c(3553) : Примечание. Диапазон индекса "r", проверенный путем сравнения, в этой строке
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\png.c(3554) : Примечание. Вызов веб-каналов в этой строке
+C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\png.c(3529): warning C5045: Компилятор вставит компонент устранения рисков Spectre для загрузки памяти, если указан параметр /Qspectre
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\png.c(3528) : Примечание. Диапазон индекса "r", проверенный путем сравнения, в этой строке
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\png.c(3529) : Примечание. Вызов веб-каналов в этой строке
+C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\png.c(3494): warning C5045: Компилятор вставит компонент устранения рисков Spectre для загрузки памяти, если указан параметр /Qspectre
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\png.c(3493) : Примечание. Диапазон индекса "r", проверенный путем сравнения, в этой строке
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\png.c(3494) : Примечание. Вызов веб-каналов в этой строке
+C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\png.c(90): warning C5045: Компилятор вставит компонент устранения рисков Spectre для загрузки памяти, если указан параметр /Qspectre
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\png.c(84) : Примечание. Диапазон индекса "start", проверенный путем сравнения, в этой строке
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\png.c(90) : Примечание. Вызов веб-каналов в этой строке
+C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngmem.c(115): warning C5045: Компилятор вставит компонент устранения рисков Spectre для загрузки памяти, если указан параметр /Qspectre
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngmem.c(114) : Примечание. Диапазон индекса "req", проверенный путем сравнения, в этой строке
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngmem.c(115) : Примечание. Вызов веб-каналов в этой строке
+C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\png.c(1535): warning C5045: Компилятор вставит компонент устранения рисков Spectre для загрузки памяти, если указан параметр /Qspectre
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\png.c(1509) : Примечание. Диапазон индекса "blue_scale", проверенный путем сравнения, в этой строке
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\png.c(1535) : Примечание. Вызов веб-каналов в этой строке
+C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\png.c(1532): warning C5045: Компилятор вставит компонент устранения рисков Spectre для загрузки памяти, если указан параметр /Qspectre
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\png.c(1509) : Примечание. Диапазон индекса "blue_scale", проверенный путем сравнения, в этой строке
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\png.c(1532) : Примечание. Вызов веб-каналов в этой строке
+C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\png.c(1530): warning C5045: Компилятор вставит компонент устранения рисков Spectre для загрузки памяти, если указан параметр /Qspectre
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\png.c(1509) : Примечание. Диапазон индекса "blue_scale", проверенный путем сравнения, в этой строке
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\png.c(1530) : Примечание. Вызов веб-каналов в этой строке
+C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngget.c(341): warning C5045: Компилятор вставит компонент устранения рисков Spectre для загрузки памяти, если указан параметр /Qspectre
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngget.c(339) : Примечание. Диапазон индекса "ppm", проверенный путем сравнения, в этой строке
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngget.c(341) : Примечание. Вызов веб-каналов в этой строке
+C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\zlib\trees.c(971): warning C5045: Компилятор вставит компонент устранения рисков Spectre для загрузки памяти, если указан параметр /Qspectre
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\zlib\trees.c(962) : Примечание. Диапазон индекса "", проверенный путем сравнения, в этой строке
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\zlib\trees.c(971) : Примечание. Вызов веб-каналов в этой строке
+C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\png.c(2942): warning C5045: Компилятор вставит компонент устранения рисков Spectre для загрузки памяти, если указан параметр /Qspectre
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\png.c(2928) : Примечание. Диапазон индекса "fp", проверенный путем сравнения, в этой строке
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\png.c(2942) : Примечание. Вызов веб-каналов в этой строке
+C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngrutil.c(29): warning C5045: Компилятор вставит компонент устранения рисков Spectre для загрузки памяти, если указан параметр /Qspectre
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngrutil.c(26) : Примечание. Диапазон индекса "uval", проверенный путем сравнения, в этой строке
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngrutil.c(29) : Примечание. Вызов веб-каналов в этой строке
+C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngpread.c(150): warning C5045: Компилятор вставит компонент устранения рисков Spectre для загрузки памяти, если указан параметр /Qspectre
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngpread.c(150) : Примечание. Диапазон индекса "num_checked", проверенный путем сравнения, в этой строке
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngpread.c(150) : Примечание. Вызов веб-каналов в этой строке
+C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngmem.c(159): warning C5045: Компилятор вставит компонент устранения рисков Spectre для загрузки памяти, если указан параметр /Qspectre
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngmem.c(143) : Примечание. Диапазон индекса "add_elements", проверенный путем сравнения, в этой строке
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngmem.c(159) : Примечание. Вызов веб-каналов в этой строке
+C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngmem.c(128): warning C5045: Компилятор вставит компонент устранения рисков Spectre для загрузки памяти, если указан параметр /Qspectre
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngmem.c(125) : Примечание. Диапазон индекса "nelements", проверенный путем сравнения, в этой строке
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngmem.c(128) : Примечание. Вызов веб-каналов в этой строке
+C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngrutil.c(46): warning C5045: Компилятор вставит компонент устранения рисков Spectre для загрузки памяти, если указан параметр /Qspectre
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngrutil.c(45) : Примечание. Диапазон индекса "uval", проверенный путем сравнения, в этой строке
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngrutil.c(46) : Примечание. Вызов веб-каналов в этой строке
+C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\zlib\deflate.c(2102): warning C5045: Компилятор вставит компонент устранения рисков Spectre для загрузки памяти, если указан параметр /Qspectre
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\zlib\deflate.c(2102) : Примечание. Диапазон индекса "dist", проверенный путем сравнения, в этой строке
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\zlib\deflate.c(2102) : Примечание. Загрузка памяти веб-каналов в этой строке
+C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\zlib\deflate.c(1992): warning C5045: Компилятор вставит компонент устранения рисков Spectre для загрузки памяти, если указан параметр /Qspectre
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\zlib\deflate.c(1992) : Примечание. Диапазон индекса "dist", проверенный путем сравнения, в этой строке
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\zlib\deflate.c(1992) : Примечание. Загрузка памяти веб-каналов в этой строке
+C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\zlib\deflate.c(1967): warning C5045: Компилятор вставит компонент устранения рисков Spectre для загрузки памяти, если указан параметр /Qspectre
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\zlib\deflate.c(1961) : Примечание. Диапазон индекса "", проверенный путем сравнения, в этой строке
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\zlib\deflate.c(1967) : Примечание. Вызов веб-каналов в этой строке
+C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\zlib\deflate.c(1867): warning C5045: Компилятор вставит компонент устранения рисков Spectre для загрузки памяти, если указан параметр /Qspectre
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\zlib\deflate.c(1867) : Примечание. Диапазон индекса "dist", проверенный путем сравнения, в этой строке
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\zlib\deflate.c(1867) : Примечание. Загрузка памяти веб-каналов в этой строке
+C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\zlib\deflate.c(1861): warning C5045: Компилятор вставит компонент устранения рисков Spectre для загрузки памяти, если указан параметр /Qspectre
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\zlib\deflate.c(1856) : Примечание. Диапазон индекса "", проверенный путем сравнения, в этой строке
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\zlib\deflate.c(1861) : Примечание. Вызов веб-каналов в этой строке
+C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngwutil.c(140): warning C5045: Компилятор вставит компонент устранения рисков Spectre для загрузки памяти, если указан параметр /Qspectre
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngwutil.c(133) : Примечание. Диапазон индекса "length", проверенный путем сравнения, в этой строке
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngwutil.c(140) : Примечание. Вызов веб-каналов в этой строке
+C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngrutil.c(142): warning C5045: Компилятор вставит компонент устранения рисков Spectre для загрузки памяти, если указан параметр /Qspectre
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngrutil.c(142) : Примечание. Диапазон индекса "num_checked", проверенный путем сравнения, в этой строке
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngrutil.c(142) : Примечание. Вызов веб-каналов в этой строке
+C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\png.c(3327): warning C5045: Компилятор вставит компонент устранения рисков Spectre для загрузки памяти, если указан параметр /Qspectre
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\png.c(3320) : Примечание. Диапазон индекса "r", проверенный путем сравнения, в этой строке
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\png.c(3327) : Примечание. Вызов веб-каналов в этой строке
+C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngrtran.c(280): warning C5045: Компилятор вставит компонент устранения рисков Spectre для загрузки памяти, если указан параметр /Qspectre
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngrtran.c(277) : Примечание. Диапазон индекса "output_gamma", проверенный путем сравнения, в этой строке
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngrtran.c(280) : Примечание. Вызов веб-каналов в этой строке
+C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\png.c(113): warning C5045: Компилятор вставит компонент устранения рисков Spectre для загрузки памяти, если указан параметр /Qspectre
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\png.c(105) : Примечание. Диапазон индекса "items", проверенный путем сравнения, в этой строке
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\png.c(113) : Примечание. Вызов веб-каналов в этой строке
+C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngmem.c(95): warning C5045: Компилятор вставит компонент устранения рисков Spectre для загрузки памяти, если указан параметр /Qspectre
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngmem.c(83) : Примечание. Диапазон индекса "num_bytes", проверенный путем сравнения, в этой строке
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngmem.c(95) : Примечание. Вызов веб-каналов в этой строке
+C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngmem.c(91): warning C5045: Компилятор вставит компонент устранения рисков Spectre для загрузки памяти, если указан параметр /Qspectre
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngmem.c(83) : Примечание. Диапазон индекса "num_bytes", проверенный путем сравнения, в этой строке
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngmem.c(91) : Примечание. Вызов веб-каналов в этой строке
+C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngmem.c(95): warning C5045: Компилятор вставит компонент устранения рисков Spectre для загрузки памяти, если указан параметр /Qspectre
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngmem.c(83) : Примечание. Диапазон индекса "jmp_buf_size", проверенный путем сравнения, в этой строке
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngmem.c(95) : Примечание. Вызов веб-каналов в этой строке
+C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngmem.c(91): warning C5045: Компилятор вставит компонент устранения рисков Spectre для загрузки памяти, если указан параметр /Qspectre
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngmem.c(83) : Примечание. Диапазон индекса "jmp_buf_size", проверенный путем сравнения, в этой строке
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngmem.c(91) : Примечание. Вызов веб-каналов в этой строке
+C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngmem.c(95): warning C5045: Компилятор вставит компонент устранения рисков Spectre для загрузки памяти, если указан параметр /Qspectre
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngmem.c(83) : Примечание. Диапазон индекса "lengthh", проверенный путем сравнения, в этой строке
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngmem.c(95) : Примечание. Вызов веб-каналов в этой строке
+C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngmem.c(91): warning C5045: Компилятор вставит компонент устранения рисков Spectre для загрузки памяти, если указан параметр /Qspectre
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngmem.c(83) : Примечание. Диапазон индекса "lengthh", проверенный путем сравнения, в этой строке
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngmem.c(91) : Примечание. Вызов веб-каналов в этой строке
+C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngmem.c(95): warning C5045: Компилятор вставит компонент устранения рисков Spectre для загрузки памяти, если указан параметр /Qspectre
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngmem.c(83) : Примечание. Диапазон индекса "lengthw", проверенный путем сравнения, в этой строке
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngmem.c(95) : Примечание. Вызов веб-каналов в этой строке
+C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngmem.c(91): warning C5045: Компилятор вставит компонент устранения рисков Spectre для загрузки памяти, если указан параметр /Qspectre
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngmem.c(83) : Примечание. Диапазон индекса "lengthw", проверенный путем сравнения, в этой строке
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngmem.c(91) : Примечание. Вызов веб-каналов в этой строке
+C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngmem.c(95): warning C5045: Компилятор вставит компонент устранения рисков Spectre для загрузки памяти, если указан параметр /Qspectre
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngmem.c(83) : Примечание. Диапазон индекса "new_max", проверенный путем сравнения, в этой строке
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngmem.c(95) : Примечание. Вызов веб-каналов в этой строке
+C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngmem.c(91): warning C5045: Компилятор вставит компонент устранения рисков Spectre для загрузки памяти, если указан параметр /Qspectre
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngmem.c(83) : Примечание. Диапазон индекса "new_max", проверенный путем сравнения, в этой строке
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngmem.c(91) : Примечание. Вызов веб-каналов в этой строке
+C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngmem.c(252): warning C5045: Компилятор вставит компонент устранения рисков Spectre для загрузки памяти, если указан параметр /Qspectre
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngset.c(1448) : Примечание. Диапазон индекса "", проверенный путем сравнения, в этой строке
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngmem.c(252) : Примечание. Вызов веб-каналов в этой строке
+C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngmem.c(239): warning C5045: Компилятор вставит компонент устранения рисков Spectre для загрузки памяти, если указан параметр /Qspectre
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngset.c(1448) : Примечание. Диапазон индекса "", проверенный путем сравнения, в этой строке
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngmem.c(239) : Примечание. Вызов веб-каналов в этой строке
+C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngmem.c(95): warning C5045: Компилятор вставит компонент устранения рисков Spectre для загрузки памяти, если указан параметр /Qspectre
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngmem.c(83) : Примечание. Диапазон индекса "new_size$GSCopy", проверенный путем сравнения, в этой строке
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngmem.c(95) : Примечание. Вызов веб-каналов в этой строке
+C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngmem.c(91): warning C5045: Компилятор вставит компонент устранения рисков Spectre для загрузки памяти, если указан параметр /Qspectre
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngmem.c(83) : Примечание. Диапазон индекса "new_size$GSCopy", проверенный путем сравнения, в этой строке
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngmem.c(91) : Примечание. Вызов веб-каналов в этой строке
+C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngmem.c(95): warning C5045: Компилятор вставит компонент устранения рисков Spectre для загрузки памяти, если указан параметр /Qspectre
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngmem.c(83) : Примечание. Диапазон индекса "buf_size", проверенный путем сравнения, в этой строке
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngmem.c(95) : Примечание. Вызов веб-каналов в этой строке
+C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngmem.c(91): warning C5045: Компилятор вставит компонент устранения рисков Spectre для загрузки памяти, если указан параметр /Qspectre
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngmem.c(83) : Примечание. Диапазон индекса "buf_size", проверенный путем сравнения, в этой строке
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngmem.c(91) : Примечание. Вызов веб-каналов в этой строке
+C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngwutil.c(140): warning C5045: Компилятор вставит компонент устранения рисков Spectre для загрузки памяти, если указан параметр /Qspectre
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngwutil.c(133) : Примечание. Диапазон индекса "avail", проверенный путем сравнения, в этой строке
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngwutil.c(140) : Примечание. Вызов веб-каналов в этой строке
+C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngwutil.c(1515): warning C5045: Компилятор вставит компонент устранения рисков Spectre для загрузки памяти, если указан параметр /Qspectre
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngwutil.c(1506) : Примечание. Диапазон индекса "num_hist", проверенный путем сравнения, в этой строке
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngwutil.c(1515) : Примечание. Вызов веб-каналов в этой строке
+C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngwutil.c(185): warning C5045: Компилятор вставит компонент устранения рисков Spectre для загрузки памяти, если указан параметр /Qspectre
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngwutil.c(182) : Примечание. Диапазон индекса "length", проверенный путем сравнения, в этой строке
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngwutil.c(185) : Примечание. Вызов веб-каналов в этой строке
+C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\zlib\deflate.c(1000): warning C5045: Компилятор вставит компонент устранения рисков Spectre для загрузки памяти, если указан параметр /Qspectre
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\zlib\deflate.c(770) : Примечание. Диапазон индекса "flush", проверенный путем сравнения, в этой строке
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\zlib\deflate.c(1000) : Примечание. Вызов веб-каналов в этой строке
+C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\zlib\deflate.c(966): warning C5045: Компилятор вставит компонент устранения рисков Spectre для загрузки памяти, если указан параметр /Qspectre
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\zlib\deflate.c(966) : Примечание. Диапазон индекса "beg", проверенный путем сравнения, в этой строке
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\zlib\deflate.c(966) : Примечание. Вызов веб-каналов в этой строке
+C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\zlib\deflate.c(944): warning C5045: Компилятор вставит компонент устранения рисков Spectre для загрузки памяти, если указан параметр /Qspectre
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\zlib\deflate.c(944) : Примечание. Диапазон индекса "beg", проверенный путем сравнения, в этой строке
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\zlib\deflate.c(944) : Примечание. Вызов веб-каналов в этой строке
+C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\zlib\deflate.c(922): warning C5045: Компилятор вставит компонент устранения рисков Spectre для загрузки памяти, если указан параметр /Qspectre
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\zlib\deflate.c(922) : Примечание. Диапазон индекса "beg", проверенный путем сравнения, в этой строке
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\zlib\deflate.c(922) : Примечание. Вызов веб-каналов в этой строке
+C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngrutil.c(202): warning C5045: Компилятор вставит компонент устранения рисков Spectre для загрузки памяти, если указан параметр /Qspectre
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngrutil.c(794) : Примечание. Диапазон индекса "read_size", проверенный путем сравнения, в этой строке
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngrutil.c(202) : Примечание. Вызов веб-каналов в этой строке
+C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\png.c(4106): warning C5045: Компилятор вставит компонент устранения рисков Spectre для загрузки памяти, если указан параметр /Qspectre
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\png.c(4104) : Примечание. Диапазон индекса "", проверенный путем сравнения, в этой строке
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\png.c(4106) : Примечание. Загрузка памяти веб-каналов в этой строке
+C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\png.c(4098): warning C5045: Компилятор вставит компонент устранения рисков Spectre для загрузки памяти, если указан параметр /Qspectre
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\png.c(4096) : Примечание. Диапазон индекса "bound", проверенный путем сравнения, в этой строке
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\png.c(4098) : Примечание. Загрузка памяти веб-каналов в этой строке
+C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngset.c(546): warning C5045: Компилятор вставит компонент устранения рисков Spectre для загрузки памяти, если указан параметр /Qspectre
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngset.c(536) : Примечание. Диапазон индекса "height", проверенный путем сравнения, в этой строке
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngset.c(546) : Примечание. Вызов веб-каналов в этой строке
+C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngset.c(517): warning C5045: Компилятор вставит компонент устранения рисков Spectre для загрузки памяти, если указан параметр /Qspectre
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngset.c(506) : Примечание. Диапазон индекса "height", проверенный путем сравнения, в этой строке
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngset.c(517) : Примечание. Вызов веб-каналов в этой строке
+C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngrutil.c(191): warning C5045: Компилятор вставит компонент устранения рисков Spectre для загрузки памяти, если указан параметр /Qspectre
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngrutil.c(26) : Примечание. Диапазон индекса "uval", проверенный путем сравнения, в этой строке
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngrutil.c(191) : Примечание. Вызов веб-каналов в этой строке
+C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngpread.c(70): warning C5045: Компилятор вставит компонент устранения рисков Spectre для загрузки памяти, если указан параметр /Qspectre
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngpread.c(69) : Примечание. Диапазон индекса "remaining", проверенный путем сравнения, в этой строке
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngpread.c(70) : Примечание. Вызов веб-каналов в этой строке
+C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngrutil.c(756): warning C5045: Компилятор вставит компонент устранения рисков Spectre для загрузки памяти, если указан параметр /Qspectre
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngrutil.c(633) : Примечание. Диапазон индекса "", проверенный путем сравнения, в этой строке
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngrutil.c(756) : Примечание. Вызов веб-каналов в этой строке
+C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngrutil.c(741): warning C5045: Компилятор вставит компонент устранения рисков Spectre для загрузки памяти, если указан параметр /Qspectre
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngrutil.c(633) : Примечание. Диапазон индекса "", проверенный путем сравнения, в этой строке
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngrutil.c(741) : Примечание. Вызов веб-каналов в этой строке
+C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngmem.c(252): warning C5045: Компилятор вставит компонент устранения рисков Spectre для загрузки памяти, если указан параметр /Qspectre
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngrutil.c(633) : Примечание. Диапазон индекса "", проверенный путем сравнения, в этой строке
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngmem.c(252) : Примечание. Вызов веб-каналов в этой строке
+C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngmem.c(239): warning C5045: Компилятор вставит компонент устранения рисков Spectre для загрузки памяти, если указан параметр /Qspectre
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngrutil.c(633) : Примечание. Диапазон индекса "", проверенный путем сравнения, в этой строке
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngmem.c(239) : Примечание. Вызов веб-каналов в этой строке
+C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngrutil.c(679): warning C5045: Компилятор вставит компонент устранения рисков Spectre для загрузки памяти, если указан параметр /Qspectre
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngrutil.c(633) : Примечание. Диапазон индекса "", проверенный путем сравнения, в этой строке
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngrutil.c(679) : Примечание. Вызов веб-каналов в этой строке
+C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngmem.c(95): warning C5045: Компилятор вставит компонент устранения рисков Spectre для загрузки памяти, если указан параметр /Qspectre
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngmem.c(83) : Примечание. Диапазон индекса "buffer_size", проверенный путем сравнения, в этой строке
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngmem.c(95) : Примечание. Вызов веб-каналов в этой строке
+C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngmem.c(91): warning C5045: Компилятор вставит компонент устранения рисков Spectre для загрузки памяти, если указан параметр /Qspectre
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngmem.c(83) : Примечание. Диапазон индекса "buffer_size", проверенный путем сравнения, в этой строке
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngmem.c(91) : Примечание. Вызов веб-каналов в этой строке
+C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngrutil.c(649): warning C5045: Компилятор вставит компонент устранения рисков Spectre для загрузки памяти, если указан параметр /Qspectre
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngrutil.c(633) : Примечание. Диапазон индекса "", проверенный путем сравнения, в этой строке
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngrutil.c(649) : Примечание. Вызов веб-каналов в этой строке
+C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngrutil.c(4606): warning C5045: Компилятор вставит компонент устранения рисков Spectre для загрузки памяти, если указан параметр /Qspectre
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngrutil.c(4600) : Примечание. Диапазон индекса "", проверенный путем сравнения, в этой строке
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngrutil.c(4606) : Примечание. Вызов веб-каналов в этой строке
+C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngmem.c(95): warning C5045: Компилятор вставит компонент устранения рисков Spectre для загрузки памяти, если указан параметр /Qspectre
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngmem.c(83) : Примечание. Диапазон индекса "num_entries", проверенный путем сравнения, в этой строке
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngmem.c(95) : Примечание. Вызов веб-каналов в этой строке
+C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngmem.c(91): warning C5045: Компилятор вставит компонент устранения рисков Spectre для загрузки памяти, если указан параметр /Qspectre
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngmem.c(83) : Примечание. Диапазон индекса "num_entries", проверенный путем сравнения, в этой строке
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngmem.c(91) : Примечание. Вызов веб-каналов в этой строке
+C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngwio.c(41): warning C5045: Компилятор вставит компонент устранения рисков Spectre для загрузки памяти, если указан параметр /Qspectre
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngwutil.c(1549) : Примечание. Диапазон индекса "", проверенный путем сравнения, в этой строке
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngwio.c(41) : Примечание. Вызов веб-каналов в этой строке
+C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngwio.c(37): warning C5045: Компилятор вставит компонент устранения рисков Spectre для загрузки памяти, если указан параметр /Qspectre
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngwutil.c(1549) : Примечание. Диапазон индекса "", проверенный путем сравнения, в этой строке
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngwio.c(37) : Примечание. Вызов веб-каналов в этой строке
+C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngwutil.c(140): warning C5045: Компилятор вставит компонент устранения рисков Spectre для загрузки памяти, если указан параметр /Qspectre
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngwutil.c(1549) : Примечание. Диапазон индекса "", проверенный путем сравнения, в этой строке
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngwutil.c(140) : Примечание. Вызов веб-каналов в этой строке
+C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngwio.c(41): warning C5045: Компилятор вставит компонент устранения рисков Spectre для загрузки памяти, если указан параметр /Qspectre
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngwutil.c(133) : Примечание. Диапазон индекса "length", проверенный путем сравнения, в этой строке
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngwio.c(41) : Примечание. Вызов веб-каналов в этой строке
+C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngwutil.c(1553): warning C5045: Компилятор вставит компонент устранения рисков Spectre для загрузки памяти, если указан параметр /Qspectre
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngwutil.c(1549) : Примечание. Диапазон индекса "", проверенный путем сравнения, в этой строке
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngwutil.c(1553) : Примечание. Вызов веб-каналов в этой строке
+C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngwutil.c(1550): warning C5045: Компилятор вставит компонент устранения рисков Spectre для загрузки памяти, если указан параметр /Qspectre
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngwutil.c(1549) : Примечание. Диапазон индекса "", проверенный путем сравнения, в этой строке
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngwutil.c(1550) : Примечание. Вызов веб-каналов в этой строке
+C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngwutil.c(140): warning C5045: Компилятор вставит компонент устранения рисков Spectre для загрузки памяти, если указан параметр /Qspectre
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngwutil.c(133) : Примечание. Диапазон индекса "units_len", проверенный путем сравнения, в этой строке
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngwutil.c(140) : Примечание. Вызов веб-каналов в этой строке
+C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngwio.c(41): warning C5045: Компилятор вставит компонент устранения рисков Spectre для загрузки памяти, если указан параметр /Qspectre
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngwutil.c(133) : Примечание. Диапазон индекса "purpose_len", проверенный путем сравнения, в этой строке
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngwio.c(41) : Примечание. Вызов веб-каналов в этой строке
+C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngwutil.c(140): warning C5045: Компилятор вставит компонент устранения рисков Spectre для загрузки памяти, если указан параметр /Qspectre
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngwutil.c(133) : Примечание. Диапазон индекса "purpose_len", проверенный путем сравнения, в этой строке
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngwutil.c(140) : Примечание. Вызов веб-каналов в этой строке
+C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngwutil.c(140): warning C5045: Компилятор вставит компонент устранения рисков Spectre для загрузки памяти, если указан параметр /Qspectre
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngwutil.c(133) : Примечание. Диапазон индекса "entry_size", проверенный путем сравнения, в этой строке
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngwutil.c(140) : Примечание. Вызов веб-каналов в этой строке
+C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngwio.c(41): warning C5045: Компилятор вставит компонент устранения рисков Spectre для загрузки памяти, если указан параметр /Qspectre
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngwutil.c(1656) : Примечание. Диапазон индекса "", проверенный путем сравнения, в этой строке
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngwio.c(41) : Примечание. Вызов веб-каналов в этой строке
+C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngwio.c(37): warning C5045: Компилятор вставит компонент устранения рисков Spectre для загрузки памяти, если указан параметр /Qspectre
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngwutil.c(1656) : Примечание. Диапазон индекса "", проверенный путем сравнения, в этой строке
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngwio.c(37) : Примечание. Вызов веб-каналов в этой строке
+C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngwutil.c(140): warning C5045: Компилятор вставит компонент устранения рисков Spectre для загрузки памяти, если указан параметр /Qspectre
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngwutil.c(1656) : Примечание. Диапазон индекса "", проверенный путем сравнения, в этой строке
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngwutil.c(140) : Примечание. Вызов веб-каналов в этой строке
+C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngwutil.c(1712): warning C5045: Компилятор вставит компонент устранения рисков Spectre для загрузки памяти, если указан параметр /Qspectre
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngwutil.c(1656) : Примечание. Диапазон индекса "", проверенный путем сравнения, в этой строке
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngwutil.c(1712) : Примечание. Вызов веб-каналов в этой строке
+C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngwio.c(41): warning C5045: Компилятор вставит компонент устранения рисков Spectre для загрузки памяти, если указан параметр /Qspectre
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngwutil.c(133) : Примечание. Диапазон индекса "key_len", проверенный путем сравнения, в этой строке
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngwio.c(41) : Примечание. Вызов веб-каналов в этой строке
+C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngwutil.c(140): warning C5045: Компилятор вставит компонент устранения рисков Spectre для загрузки памяти, если указан параметр /Qspectre
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngwutil.c(133) : Примечание. Диапазон индекса "key_len", проверенный путем сравнения, в этой строке
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngwutil.c(140) : Примечание. Вызов веб-каналов в этой строке
+C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngwutil.c(1703): warning C5045: Компилятор вставит компонент устранения рисков Spectre для загрузки памяти, если указан параметр /Qspectre
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngwutil.c(1656) : Примечание. Диапазон индекса "", проверенный путем сравнения, в этой строке
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngwutil.c(1703) : Примечание. Вызов веб-каналов в этой строке
+C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngwutil.c(1697): warning C5045: Компилятор вставит компонент устранения рисков Spectre для загрузки памяти, если указан параметр /Qspectre
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngwutil.c(1696) : Примечание. Диапазон индекса "", проверенный путем сравнения, в этой строке
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngwutil.c(1697) : Примечание. Вызов веб-каналов в этой строке
+C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngwutil.c(1691): warning C5045: Компилятор вставит компонент устранения рисков Spectre для загрузки памяти, если указан параметр /Qspectre
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngwutil.c(1656) : Примечание. Диапазон индекса "", проверенный путем сравнения, в этой строке
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngwutil.c(1691) : Примечание. Вызов веб-каналов в этой строке
+C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngwutil.c(1690): warning C5045: Компилятор вставит компонент устранения рисков Spectre для загрузки памяти, если указан параметр /Qspectre
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngwutil.c(1656) : Примечание. Диапазон индекса "", проверенный путем сравнения, в этой строке
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngwutil.c(1690) : Примечание. Вызов веб-каналов в этой строке
+C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngwio.c(41): warning C5045: Компилятор вставит компонент устранения рисков Spectre для загрузки памяти, если указан параметр /Qspectre
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngwutil.c(1155) : Примечание. Диапазон индекса "", проверенный путем сравнения, в этой строке
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngwio.c(41) : Примечание. Вызов веб-каналов в этой строке
+C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngwio.c(37): warning C5045: Компилятор вставит компонент устранения рисков Spectre для загрузки памяти, если указан параметр /Qspectre
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngwutil.c(1155) : Примечание. Диапазон индекса "", проверенный путем сравнения, в этой строке
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngwio.c(37) : Примечание. Вызов веб-каналов в этой строке
+C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngwutil.c(1170): warning C5045: Компилятор вставит компонент устранения рисков Spectre для загрузки памяти, если указан параметр /Qspectre
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngwutil.c(1155) : Примечание. Диапазон индекса "", проверенный путем сравнения, в этой строке
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngwutil.c(1170) : Примечание. Вызов веб-каналов в этой строке
+C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngwio.c(41): warning C5045: Компилятор вставит компонент устранения рисков Spectre для загрузки памяти, если указан параметр /Qspectre
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngwutil.c(133) : Примечание. Диапазон индекса "name_len", проверенный путем сравнения, в этой строке
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngwio.c(41) : Примечание. Вызов веб-каналов в этой строке
+C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngwutil.c(140): warning C5045: Компилятор вставит компонент устранения рисков Spectre для загрузки памяти, если указан параметр /Qspectre
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngwutil.c(133) : Примечание. Диапазон индекса "name_len", проверенный путем сравнения, в этой строке
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngwutil.c(140) : Примечание. Вызов веб-каналов в этой строке
+C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngwutil.c(1166): warning C5045: Компилятор вставит компонент устранения рисков Spectre для загрузки памяти, если указан параметр /Qspectre
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngwutil.c(1155) : Примечание. Диапазон индекса "", проверенный путем сравнения, в этой строке
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngwutil.c(1166) : Примечание. Вызов веб-каналов в этой строке
+C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngwutil.c(1164): warning C5045: Компилятор вставит компонент устранения рисков Spectre для загрузки памяти, если указан параметр /Qspectre
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngwutil.c(1155) : Примечание. Диапазон индекса "", проверенный путем сравнения, в этой строке
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngwutil.c(1164) : Примечание. Вызов веб-каналов в этой строке
+C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngwutil.c(1163): warning C5045: Компилятор вставит компонент устранения рисков Spectre для загрузки памяти, если указан параметр /Qspectre
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngwutil.c(1155) : Примечание. Диапазон индекса "", проверенный путем сравнения, в этой строке
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngwutil.c(1163) : Примечание. Вызов веб-каналов в этой строке
+C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngwutil.c(1832): warning C5045: Компилятор вставит компонент устранения рисков Spectre для загрузки памяти, если указан параметр /Qspectre
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngwutil.c(1821) : Примечание. Диапазон индекса "total_len", проверенный путем сравнения, в этой строке
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngwutil.c(1832) : Примечание. Вызов веб-каналов в этой строке
+C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngwutil.c(1365): warning C5045: Компилятор вставит компонент устранения рисков Spectre для загрузки памяти, если указан параметр /Qspectre
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngwutil.c(1357) : Примечание. Диапазон индекса "num_trans", проверенный путем сравнения, в этой строке
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngwutil.c(1365) : Примечание. Вызов веб-каналов в этой строке
+C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngwutil.c(1053): warning C5045: Компилятор вставит компонент устранения рисков Spectre для загрузки памяти, если указан параметр /Qspectre
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngwutil.c(1052) : Примечание. Диапазон индекса "size", проверенный путем сравнения, в этой строке
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngwutil.c(1053) : Примечание. Вызов веб-каналов в этой строке
+C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngwutil.c(1006): warning C5045: Компилятор вставит компонент устранения рисков Spectre для загрузки памяти, если указан параметр /Qspectre
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngwutil.c(1005) : Примечание. Диапазон индекса "size", проверенный путем сравнения, в этой строке
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngwutil.c(1006) : Примечание. Вызов веб-каналов в этой строке
+C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngrutil.c(202): warning C5045: Компилятор вставит компонент устранения рисков Spectre для загрузки памяти, если указан параметр /Qspectre
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngrutil.c(2912) : Примечание. Диапазон индекса "length$GSCopy", проверенный путем сравнения, в этой строке
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngrutil.c(202) : Примечание. Вызов веб-каналов в этой строке
+C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngrutil.c(2905): warning C5045: Компилятор вставит компонент устранения рисков Spectre для загрузки памяти, если указан параметр /Qspectre
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngrutil.c(2902) : Примечание. Диапазон индекса "length$GSCopy", проверенный путем сравнения, в этой строке
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngrutil.c(2905) : Примечание. Вызов веб-каналов в этой строке
+C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngmem.c(95): warning C5045: Компилятор вставит компонент устранения рисков Spectre для загрузки памяти, если указан параметр /Qspectre
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngmem.c(83) : Примечание. Диапазон индекса "length$GSCopy", проверенный путем сравнения, в этой строке
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngmem.c(95) : Примечание. Вызов веб-каналов в этой строке
+C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngmem.c(91): warning C5045: Компилятор вставит компонент устранения рисков Spectre для загрузки памяти, если указан параметр /Qspectre
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngmem.c(83) : Примечание. Диапазон индекса "length$GSCopy", проверенный путем сравнения, в этой строке
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngmem.c(91) : Примечание. Вызов веб-каналов в этой строке
+C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngrutil.c(2461): warning C5045: Компилятор вставит компонент устранения рисков Spectre для загрузки памяти, если указан параметр /Qspectre
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngrutil.c(2441) : Примечание. Диапазон индекса "length$GSCopy", проверенный путем сравнения, в этой строке
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngrutil.c(2461) : Примечание. Вызов веб-каналов в этой строке
+C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngrutil.c(2453): warning C5045: Компилятор вставит компонент устранения рисков Spectre для загрузки памяти, если указан параметр /Qspectre
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngrutil.c(2441) : Примечание. Диапазон индекса "length$GSCopy", проверенный путем сравнения, в этой строке
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngrutil.c(2453) : Примечание. Вызов веб-каналов в этой строке
+C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngrutil.c(2441): warning C5045: Компилятор вставит компонент устранения рисков Spectre для загрузки памяти, если указан параметр /Qspectre
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngrutil.c(2402) : Примечание. Диапазон индекса "length$GSCopy", проверенный путем сравнения, в этой строке
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngrutil.c(2441) : Примечание. Вызов веб-каналов в этой строке
+C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngrutil.c(202): warning C5045: Компилятор вставит компонент устранения рисков Spectre для загрузки памяти, если указан параметр /Qspectre
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngrutil.c(2402) : Примечание. Диапазон индекса "length$GSCopy", проверенный путем сравнения, в этой строке
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngrutil.c(202) : Примечание. Вызов веб-каналов в этой строке
+C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngrutil.c(2417): warning C5045: Компилятор вставит компонент устранения рисков Spectre для загрузки памяти, если указан параметр /Qspectre
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngrutil.c(2402) : Примечание. Диапазон индекса "length$GSCopy", проверенный путем сравнения, в этой строке
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngrutil.c(2417) : Примечание. Вызов веб-каналов в этой строке
+C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngrutil.c(2412): warning C5045: Компилятор вставит компонент устранения рисков Spectre для загрузки памяти, если указан параметр /Qspectre
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngrutil.c(2402) : Примечание. Диапазон индекса "length$GSCopy", проверенный путем сравнения, в этой строке
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngrutil.c(2412) : Примечание. Вызов веб-каналов в этой строке
+C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngrutil.c(2404): warning C5045: Компилятор вставит компонент устранения рисков Spectre для загрузки памяти, если указан параметр /Qspectre
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngrutil.c(2402) : Примечание. Диапазон индекса "length$GSCopy", проверенный путем сравнения, в этой строке
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngrutil.c(2404) : Примечание. Вызов веб-каналов в этой строке
+C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngrutil.c(2057): warning C5045: Компилятор вставит компонент устранения рисков Spectre для загрузки памяти, если указан параметр /Qspectre
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngrutil.c(2048) : Примечание. Диапазон индекса "length$GSCopy", проверенный путем сравнения, в этой строке
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngrutil.c(2057) : Примечание. Вызов веб-каналов в этой строке
+C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngrutil.c(2093): warning C5045: Компилятор вставит компонент устранения рисков Spectre для загрузки памяти, если указан параметр /Qspectre
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngrutil.c(2048) : Примечание. Диапазон индекса "length$GSCopy", проверенный путем сравнения, в этой строке
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngrutil.c(2093) : Примечание. Вызов веб-каналов в этой строке
+C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngrutil.c(2082): warning C5045: Компилятор вставит компонент устранения рисков Spectre для загрузки памяти, если указан параметр /Qspectre
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngrutil.c(2074) : Примечание. Диапазон индекса "length$GSCopy", проверенный путем сравнения, в этой строке
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngrutil.c(2082) : Примечание. Вызов веб-каналов в этой строке
+C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngrutil.c(2069): warning C5045: Компилятор вставит компонент устранения рисков Spectre для загрузки памяти, если указан параметр /Qspectre
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngrutil.c(2048) : Примечание. Диапазон индекса "length$GSCopy", проверенный путем сравнения, в этой строке
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngrutil.c(2069) : Примечание. Вызов веб-каналов в этой строке
+C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngrutil.c(2050): warning C5045: Компилятор вставит компонент устранения рисков Spectre для загрузки памяти, если указан параметр /Qspectre
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngrutil.c(2048) : Примечание. Диапазон индекса "length$GSCopy", проверенный путем сравнения, в этой строке
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngrutil.c(2050) : Примечание. Вызов веб-каналов в этой строке
+C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngrutil.c(907): warning C5045: Компилятор вставит компонент устранения рисков Spectre для загрузки памяти, если указан параметр /Qspectre
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngrutil.c(26) : Примечание. Диапазон индекса "uval", проверенный путем сравнения, в этой строке
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngrutil.c(907) : Примечание. Вызов веб-каналов в этой строке
+C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngrutil.c(1060): warning C5045: Компилятор вставит компонент устранения рисков Spectre для загрузки памяти, если указан параметр /Qspectre
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngrutil.c(961) : Примечание. Диапазон индекса "length", проверенный путем сравнения, в этой строке
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngrutil.c(1060) : Примечание. Вызов веб-каналов в этой строке
+C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngwrite.c(1872): warning C5045: Компилятор вставит компонент устранения рисков Spectre для загрузки памяти, если указан параметр /Qspectre
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngwrite.c(1861) : Примечание. Диапазон индекса "channels", проверенный путем сравнения, в этой строке
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngwrite.c(1679) : Примечание. Загрузка памяти веб-каналов в этой строке
+C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngwrite.c(1867): warning C5045: Компилятор вставит компонент устранения рисков Spectre для загрузки памяти, если указан параметр /Qspectre
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngwrite.c(1861) : Примечание. Диапазон индекса "channels", проверенный путем сравнения, в этой строке
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngwrite.c(1679) : Примечание. Загрузка памяти веб-каналов в этой строке
+C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngwrite.c(1840): warning C5045: Компилятор вставит компонент устранения рисков Spectre для загрузки памяти, если указан параметр /Qspectre
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngwrite.c(1829) : Примечание. Диапазон индекса "channels", проверенный путем сравнения, в этой строке
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngwrite.c(1840) : Примечание. Загрузка памяти веб-каналов в этой строке
+C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngwrite.c(1835): warning C5045: Компилятор вставит компонент устранения рисков Spectre для загрузки памяти, если указан параметр /Qspectre
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngwrite.c(1829) : Примечание. Диапазон индекса "channels", проверенный путем сравнения, в этой строке
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngwrite.c(1835) : Примечание. Загрузка памяти веб-каналов в этой строке
+C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngmem.c(95): warning C5045: Компилятор вставит компонент устранения рисков Spectre для загрузки памяти, если указан параметр /Qspectre
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngmem.c(83) : Примечание. Диапазон индекса "avail_in", проверенный путем сравнения, в этой строке
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngmem.c(95) : Примечание. Вызов веб-каналов в этой строке
+C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngmem.c(91): warning C5045: Компилятор вставит компонент устранения рисков Spectre для загрузки памяти, если указан параметр /Qspectre
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngmem.c(83) : Примечание. Диапазон индекса "avail_in", проверенный путем сравнения, в этой строке
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngmem.c(91) : Примечание. Вызов веб-каналов в этой строке
+C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngrtran.c(1062): warning C5045: Компилятор вставит компонент устранения рисков Spectre для загрузки памяти, если указан параметр /Qspectre
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\png.c(3320) : Примечание. Диапазон индекса "r", проверенный путем сравнения, в этой строке
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngrtran.c(1062) : Примечание. Вызов веб-каналов в этой строке
+C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngrtran.c(860): warning C5045: Компилятор вставит компонент устранения рисков Spectre для загрузки памяти, если указан параметр /Qspectre
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngrtran.c(277) : Примечание. Диапазон индекса "output_gamma", проверенный путем сравнения, в этой строке
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngrtran.c(860) : Примечание. Вызов веб-каналов в этой строке
+C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngrtran.c(402): warning C5045: Компилятор вставит компонент устранения рисков Spectre для загрузки памяти, если указан параметр /Qspectre
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngrtran.c(277) : Примечание. Диапазон индекса "output_gamma", проверенный путем сравнения, в этой строке
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngrtran.c(402) : Примечание. Вызов веб-каналов в этой строке
+C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngrtran.c(171): warning C5045: Компилятор вставит компонент устранения рисков Spectre для загрузки памяти, если указан параметр /Qspectre
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\png.c(3320) : Примечание. Диапазон индекса "r", проверенный путем сравнения, в этой строке
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngrtran.c(171) : Примечание. Вызов веб-каналов в этой строке
+C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngset.c(1239): warning C5045: Компилятор вставит компонент устранения рисков Spectre для загрузки памяти, если указан параметр /Qspectre
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngset.c(1205) : Примечание. Диапазон индекса "num_unknowns$GSCopy", проверенный путем сравнения, в этой строке
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngset.c(1239) : Примечание. Вызов веб-каналов в этой строке
+C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngmem.c(95): warning C5045: Компилятор вставит компонент устранения рисков Spectre для загрузки памяти, если указан параметр /Qspectre
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngmem.c(83) : Примечание. Диапазон индекса "length", проверенный путем сравнения, в этой строке
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngmem.c(95) : Примечание. Вызов веб-каналов в этой строке
+C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngmem.c(91): warning C5045: Компилятор вставит компонент устранения рисков Spectre для загрузки памяти, если указан параметр /Qspectre
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngmem.c(83) : Примечание. Диапазон индекса "length", проверенный путем сравнения, в этой строке
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngmem.c(91) : Примечание. Вызов веб-каналов в этой строке
+C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngset.c(1081): warning C5045: Компилятор вставит компонент устранения рисков Spectre для загрузки памяти, если указан параметр /Qspectre
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngset.c(1075) : Примечание. Диапазон индекса "nentries$GSCopy", проверенный путем сравнения, в этой строке
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngset.c(1081) : Примечание. Вызов веб-каналов в этой строке
+C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngset.c(811): warning C5045: Компилятор вставит компонент устранения рисков Spectre для загрузки памяти, если указан параметр /Qspectre
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngset.c(797) : Примечание. Диапазон индекса "", проверенный путем сравнения, в этой строке
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngset.c(811) : Примечание. Вызов веб-каналов в этой строке
+C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngwio.c(41): warning C5045: Компилятор вставит компонент устранения рисков Spectre для загрузки памяти, если указан параметр /Qspectre
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngwutil.c(1597) : Примечание. Диапазон индекса "", проверенный путем сравнения, в этой строке
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngwio.c(41) : Примечание. Вызов веб-каналов в этой строке
+C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngwio.c(37): warning C5045: Компилятор вставит компонент устранения рисков Spectre для загрузки памяти, если указан параметр /Qspectre
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngwutil.c(1597) : Примечание. Диапазон индекса "", проверенный путем сравнения, в этой строке
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngwio.c(37) : Примечание. Вызов веб-каналов в этой строке
+C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngwutil.c(1614): warning C5045: Компилятор вставит компонент устранения рисков Spectre для загрузки памяти, если указан параметр /Qspectre
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngwutil.c(1597) : Примечание. Диапазон индекса "", проверенный путем сравнения, в этой строке
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngwutil.c(1614) : Примечание. Вызов веб-каналов в этой строке
+C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngwutil.c(1608): warning C5045: Компилятор вставит компонент устранения рисков Spectre для загрузки памяти, если указан параметр /Qspectre
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngwutil.c(1597) : Примечание. Диапазон индекса "", проверенный путем сравнения, в этой строке
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngwutil.c(1608) : Примечание. Вызов веб-каналов в этой строке
+C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngwutil.c(1605): warning C5045: Компилятор вставит компонент устранения рисков Spectre для загрузки памяти, если указан параметр /Qspectre
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngwutil.c(1597) : Примечание. Диапазон индекса "", проверенный путем сравнения, в этой строке
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngwutil.c(1605) : Примечание. Вызов веб-каналов в этой строке
+C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngwutil.c(1604): warning C5045: Компилятор вставит компонент устранения рисков Spectre для загрузки памяти, если указан параметр /Qspectre
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngwutil.c(1597) : Примечание. Диапазон индекса "", проверенный путем сравнения, в этой строке
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngwutil.c(1604) : Примечание. Вызов веб-каналов в этой строке
+C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\png.c(1147): warning C5045: Компилятор вставит компонент устранения рисков Spectre для загрузки памяти, если указан параметр /Qspectre
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\png.c(1130) : Примечание. Диапазон индекса "gAMA", проверенный путем сравнения, в этой строке
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\png.c(1147) : Примечание. Вызов веб-каналов в этой строке
+C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\png.c(1974): warning C5045: Компилятор вставит компонент устранения рисков Spectre для загрузки памяти, если указан параметр /Qspectre
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\png.c(1973) : Примечание. Диапазон индекса "profile_length", проверенный путем сравнения, в этой строке
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\png.c(1974) : Примечание. Вызов веб-каналов в этой строке
+C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\png.c(2163): warning C5045: Компилятор вставит компонент устранения рисков Spectre для загрузки памяти, если указан параметр /Qspectre
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\png.c(2134) : Примечание. Диапазон индекса "", проверенный путем сравнения, в этой строке
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\png.c(2163) : Примечание. Вызов веб-каналов в этой строке
+C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\png.c(2145): warning C5045: Компилятор вставит компонент устранения рисков Spectre для загрузки памяти, если указан параметр /Qspectre
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\png.c(2134) : Примечание. Диапазон индекса "", проверенный путем сравнения, в этой строке
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\png.c(2145) : Примечание. Вызов веб-каналов в этой строке
+C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\png.c(2155): warning C5045: Компилятор вставит компонент устранения рисков Spectre для загрузки памяти, если указан параметр /Qspectre
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\png.c(2134) : Примечание. Диапазон индекса "", проверенный путем сравнения, в этой строке
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\png.c(2155) : Примечание. Вызов веб-каналов в этой строке
+C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\png.c(2053): warning C5045: Компилятор вставит компонент устранения рисков Spectre для загрузки памяти, если указан параметр /Qspectre
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\png.c(2052) : Примечание. Диапазон индекса "temp", проверенный путем сравнения, в этой строке
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\png.c(2053) : Примечание. Вызов веб-каналов в этой строке
+C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\png.c(2046): warning C5045: Компилятор вставит компонент устранения рисков Spectre для загрузки памяти, если указан параметр /Qspectre
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\png.c(2045) : Примечание. Диапазон индекса "temp", проверенный путем сравнения, в этой строке
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\png.c(2046) : Примечание. Вызов веб-каналов в этой строке
+C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngerror.c(397): warning C5045: Компилятор вставит компонент устранения рисков Spectre для загрузки памяти, если указан параметр /Qspectre
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngrutil.c(2972) : Примечание. Диапазон индекса "ret", проверенный путем сравнения, в этой строке
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngerror.c(397) : Примечание. Вызов веб-каналов в этой строке
+C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngerror.c(395): warning C5045: Компилятор вставит компонент устранения рисков Spectre для загрузки памяти, если указан параметр /Qspectre
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngrutil.c(2972) : Примечание. Диапазон индекса "ret", проверенный путем сравнения, в этой строке
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngerror.c(395) : Примечание. Вызов веб-каналов в этой строке
+C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngerror.c(506): warning C5045: Компилятор вставит компонент устранения рисков Spectre для загрузки памяти, если указан параметр /Qspectre
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngrutil.c(2972) : Примечание. Диапазон индекса "ret", проверенный путем сравнения, в этой строке
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngerror.c(506) : Примечание. Вызов веб-каналов в этой строке
+C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngerror.c(501): warning C5045: Компилятор вставит компонент устранения рисков Spectre для загрузки памяти, если указан параметр /Qspectre
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngrutil.c(2972) : Примечание. Диапазон индекса "ret", проверенный путем сравнения, в этой строке
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngerror.c(501) : Примечание. Вызов веб-каналов в этой строке
+C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngrutil.c(2973): warning C5045: Компилятор вставит компонент устранения рисков Spectre для загрузки памяти, если указан параметр /Qspectre
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngrutil.c(2972) : Примечание. Диапазон индекса "ret", проверенный путем сравнения, в этой строке
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngrutil.c(2973) : Примечание. Вызов веб-каналов в этой строке
+C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngmem.c(239): warning C5045: Компилятор вставит компонент устранения рисков Spectre для загрузки памяти, если указан параметр /Qspectre
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngrutil.c(1740) : Примечание. Диапазон индекса "", проверенный путем сравнения, в этой строке
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngmem.c(239) : Примечание. Вызов веб-каналов в этой строке
+C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngrutil.c(1809): warning C5045: Компилятор вставит компонент устранения рисков Spectre для загрузки памяти, если указан параметр /Qspectre
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngrutil.c(1740) : Примечание. Диапазон индекса "", проверенный путем сравнения, в этой строке
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngrutil.c(1809) : Примечание. Вызов веб-каналов в этой строке
+C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngrutil.c(1753): warning C5045: Компилятор вставит компонент устранения рисков Spectre для загрузки памяти, если указан параметр /Qspectre
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngrutil.c(1740) : Примечание. Диапазон индекса "", проверенный путем сравнения, в этой строке
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngrutil.c(1753) : Примечание. Вызов веб-каналов в этой строке
+C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngmem.c(222): warning C5045: Компилятор вставит компонент устранения рисков Spectre для загрузки памяти, если указан параметр /Qspectre
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngrutil.c(1740) : Примечание. Диапазон индекса "", проверенный путем сравнения, в этой строке
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngmem.c(222) : Примечание. Вызов веб-каналов в этой строке
+C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngmem.c(91): warning C5045: Компилятор вставит компонент устранения рисков Spectre для загрузки памяти, если указан параметр /Qspectre
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngrutil.c(1740) : Примечание. Диапазон индекса "", проверенный путем сравнения, в этой строке
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngmem.c(91) : Примечание. Вызов веб-каналов в этой строке
+C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngrutil.c(1742): warning C5045: Компилятор вставит компонент устранения рисков Spectre для загрузки памяти, если указан параметр /Qspectre
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngrutil.c(1740) : Примечание. Диапазон индекса "", проверенный путем сравнения, в этой строке
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngrutil.c(1742) : Примечание. Вызов веб-каналов в этой строке
+C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngrutil.c(1733): warning C5045: Компилятор вставит компонент устранения рисков Spectre для загрузки памяти, если указан параметр /Qspectre
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngrutil.c(1717) : Примечание. Диапазон индекса "entry_start", проверенный путем сравнения, в этой строке
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngrutil.c(1733) : Примечание. Вызов веб-каналов в этой строке
+C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngrutil.c(2818): warning C5045: Компилятор вставит компонент устранения рисков Spectre для загрузки памяти, если указан параметр /Qspectre
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngrutil.c(2809) : Примечание. Диапазон индекса "length$GSCopy", проверенный путем сравнения, в этой строке
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngrutil.c(2818) : Примечание. Вызов веб-каналов в этой строке
+C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngrutil.c(2673): warning C5045: Компилятор вставит компонент устранения рисков Spectre для загрузки памяти, если указан параметр /Qspectre
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngrutil.c(2658) : Примечание. Диапазон индекса "length$GSCopy", проверенный путем сравнения, в этой строке
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngrutil.c(2673) : Примечание. Вызов веб-каналов в этой строке
+C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngerror.c(521): warning C5045: Компилятор вставит компонент устранения рисков Spectre для загрузки памяти, если указан параметр /Qspectre
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngrutil.c(2358) : Примечание. Диапазон индекса "endptr", проверенный путем сравнения, в этой строке
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngerror.c(521) : Примечание. Вызов веб-каналов в этой строке
+C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngerror.c(506): warning C5045: Компилятор вставит компонент устранения рисков Spectre для загрузки памяти, если указан параметр /Qspectre
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngrutil.c(2358) : Примечание. Диапазон индекса "endptr", проверенный путем сравнения, в этой строке
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngerror.c(506) : Примечание. Вызов веб-каналов в этой строке
+C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngerror.c(501): warning C5045: Компилятор вставит компонент устранения рисков Spectre для загрузки памяти, если указан параметр /Qspectre
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngrutil.c(2358) : Примечание. Диапазон индекса "endptr", проверенный путем сравнения, в этой строке
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngerror.c(501) : Примечание. Вызов веб-каналов в этой строке
+C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngmem.c(252): warning C5045: Компилятор вставит компонент устранения рисков Spectre для загрузки памяти, если указан параметр /Qspectre
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngrutil.c(2358) : Примечание. Диапазон индекса "endptr", проверенный путем сравнения, в этой строке
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngmem.c(252) : Примечание. Вызов веб-каналов в этой строке
+C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngmem.c(239): warning C5045: Компилятор вставит компонент устранения рисков Spectre для загрузки памяти, если указан параметр /Qspectre
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngrutil.c(2358) : Примечание. Диапазон индекса "endptr", проверенный путем сравнения, в этой строке
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngmem.c(239) : Примечание. Вызов веб-каналов в этой строке
+C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngmem.c(252): warning C5045: Компилятор вставит компонент устранения рисков Spectre для загрузки памяти, если указан параметр /Qspectre
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngrutil.c(2302) : Примечание. Диапазон индекса "", проверенный путем сравнения, в этой строке
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngmem.c(252) : Примечание. Вызов веб-каналов в этой строке
+C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngmem.c(239): warning C5045: Компилятор вставит компонент устранения рисков Spectre для загрузки памяти, если указан параметр /Qspectre
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngrutil.c(2302) : Примечание. Диапазон индекса "", проверенный путем сравнения, в этой строке
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngmem.c(239) : Примечание. Вызов веб-каналов в этой строке
+C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngrutil.c(2366): warning C5045: Компилятор вставит компонент устранения рисков Spectre для загрузки памяти, если указан параметр /Qspectre
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngrutil.c(2302) : Примечание. Диапазон индекса "", проверенный путем сравнения, в этой строке
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngrutil.c(2366) : Примечание. Вызов веб-каналов в этой строке
+C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngrutil.c(2309): warning C5045: Компилятор вставит компонент устранения рисков Spectre для загрузки памяти, если указан параметр /Qspectre
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngrutil.c(2302) : Примечание. Диапазон индекса "", проверенный путем сравнения, в этой строке
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngrutil.c(2366) : Примечание. Вызов веб-каналов в этой строке
+C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngrutil.c(2310): warning C5045: Компилятор вставит компонент устранения рисков Spectre для загрузки памяти, если указан параметр /Qspectre
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngrutil.c(2302) : Примечание. Диапазон индекса "", проверенный путем сравнения, в этой строке
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngrutil.c(2366) : Примечание. Вызов веб-каналов в этой строке
+C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngrutil.c(2311): warning C5045: Компилятор вставит компонент устранения рисков Spectre для загрузки памяти, если указан параметр /Qspectre
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngrutil.c(2302) : Примечание. Диапазон индекса "", проверенный путем сравнения, в этой строке
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngrutil.c(2366) : Примечание. Вызов веб-каналов в этой строке
+C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngerror.c(521): warning C5045: Компилятор вставит компонент устранения рисков Spectre для загрузки памяти, если указан параметр /Qspectre
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngrutil.c(2302) : Примечание. Диапазон индекса "", проверенный путем сравнения, в этой строке
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngerror.c(521) : Примечание. Вызов веб-каналов в этой строке
+C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngerror.c(506): warning C5045: Компилятор вставит компонент устранения рисков Spectre для загрузки памяти, если указан параметр /Qspectre
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngrutil.c(2302) : Примечание. Диапазон индекса "", проверенный путем сравнения, в этой строке
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngerror.c(506) : Примечание. Вызов веб-каналов в этой строке
+C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngerror.c(501): warning C5045: Компилятор вставит компонент устранения рисков Spectre для загрузки памяти, если указан параметр /Qspectre
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngrutil.c(2302) : Примечание. Диапазон индекса "", проверенный путем сравнения, в этой строке
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngerror.c(501) : Примечание. Вызов веб-каналов в этой строке
+C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngset.c(122): warning C5045: Компилятор вставит компонент устранения рисков Spectre для загрузки памяти, если указан параметр /Qspectre
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\png.c(3320) : Примечание. Диапазон индекса "r", проверенный путем сравнения, в этой строке
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngset.c(122) : Примечание. Вызов веб-каналов в этой строке
+C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngset.c(106): warning C5045: Компилятор вставит компонент устранения рисков Spectre для загрузки памяти, если указан параметр /Qspectre
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\png.c(3320) : Примечание. Диапазон индекса "r", проверенный путем сравнения, в этой строке
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngset.c(106) : Примечание. Вызов веб-каналов в этой строке
+C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\png.c(1996): warning C5045: Компилятор вставит компонент устранения рисков Spectre для загрузки памяти, если указан параметр /Qspectre
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\png.c(1994) : Примечание. Диапазон индекса "profile_length", проверенный путем сравнения, в этой строке
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\png.c(1996) : Примечание. Вызов веб-каналов в этой строке
+C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngset.c(202): warning C5045: Компилятор вставит компонент устранения рисков Spectre для загрузки памяти, если указан параметр /Qspectre
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\png.c(3320) : Примечание. Диапазон индекса "r", проверенный путем сравнения, в этой строке
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngset.c(202) : Примечание. Вызов веб-каналов в этой строке
+C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngmem.c(95): warning C5045: Компилятор вставит компонент устранения рисков Spectre для загрузки памяти, если указан параметр /Qspectre
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngmem.c(83) : Примечание. Диапазон индекса "proflen", проверенный путем сравнения, в этой строке
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngmem.c(95) : Примечание. Вызов веб-каналов в этой строке
+C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngmem.c(91): warning C5045: Компилятор вставит компонент устранения рисков Spectre для загрузки памяти, если указан параметр /Qspectre
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngmem.c(83) : Примечание. Диапазон индекса "proflen", проверенный путем сравнения, в этой строке
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngmem.c(91) : Примечание. Вызов веб-каналов в этой строке
+C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\png.c(1974): warning C5045: Компилятор вставит компонент устранения рисков Spectre для загрузки памяти, если указан параметр /Qspectre
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\png.c(1973) : Примечание. Диапазон индекса "proflen", проверенный путем сравнения, в этой строке
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\png.c(1974) : Примечание. Вызов веб-каналов в этой строке
+C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngmem.c(95): warning C5045: Компилятор вставит компонент устранения рисков Spectre для загрузки памяти, если указан параметр /Qspectre
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngmem.c(83) : Примечание. Диапазон индекса "", проверенный путем сравнения, в этой строке
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngmem.c(95) : Примечание. Вызов веб-каналов в этой строке
+C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngmem.c(91): warning C5045: Компилятор вставит компонент устранения рисков Spectre для загрузки памяти, если указан параметр /Qspectre
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngmem.c(83) : Примечание. Диапазон индекса "", проверенный путем сравнения, в этой строке
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngmem.c(91) : Примечание. Вызов веб-каналов в этой строке
+C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngwrite.c(1728): warning C5045: Компилятор вставит компонент устранения рисков Spectre для загрузки памяти, если указан параметр /Qspectre
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngwrite.c(1726) : Примечание. Диапазон индекса "row_end", проверенный путем сравнения, в этой строке
+  C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\pngwrite.c(1679) : Примечание. Загрузка памяти веб-каналов в этой строке
+  All 574 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  libpng.vcxproj -> C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\DEPRECATED\lpng1637\projects\vstudio\Release\libpng16.dll

@@ -1,0 +1,2 @@
+cd /d "C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\WinAPILab" &msbuild "WinAPILab.vcxproj" /t:sdvViewer /p:configuration="Debug" /p:platform="Win32" /p:SolutionDir="C:\Users\XJIE6yIIIEK\source\repos\WinAPILab" 
+exit %errorlevel% 
